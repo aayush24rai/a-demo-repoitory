@@ -3,5 +3,6 @@ This is just a trial file.
 
 I just made a new edit here !!
 
+Oh and this edit is in a major branch
 
 Thank you :)
